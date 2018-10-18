@@ -4,6 +4,9 @@
     "version": "0.0.1",
     "dependencies": {},
     "node-red": {
-        "settings": {}
+        "settings": {
+            "flowFile": "Flow1",
+            "credentialsFile": "Flow1_cred.json"
+        }
     }
 }
